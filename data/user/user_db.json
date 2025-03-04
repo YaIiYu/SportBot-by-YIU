@@ -1,0 +1,33 @@
+{
+    "users": [
+        {
+            "user_id": 7697817531,
+            "username": "@valerian_ocean",
+            "age": 28,
+            "day": 3,
+            "status": "admin",
+            "name": "Valerian",
+            "gender": "trans",
+            "weight": 200,
+            "training_day_started": true,
+            "training_day_is_done": true,
+            "training_part": 4,
+            "message_id": 3166
+        },
+        {
+            "user_id": 434831975,
+            "username": "@Wryyyee",
+            "age": 25,
+            "day": 4,
+            "name": "Illia",
+            "gender": "Male",
+            "status": "admin",
+            "weight": 60,
+            "timezone": "Europe/Kiev",
+            "training_day_started": true,
+            "training_day_is_done": true,
+            "training_part": 0,
+            "message_id": 3690
+        }
+    ]
+}

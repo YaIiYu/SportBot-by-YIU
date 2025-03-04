@@ -1,0 +1,492 @@
+{
+    "day_0": [
+        {
+            "id": 0,
+            "addition": null,
+            "text": "2. The Most Important Question: https://youtu.be/LvphMXYWPnw",
+            "delay": 5
+        },
+        {
+            "id": 1,
+            "addition": "question",
+            "text": "🤔What is Your <b>\"WHY\"</b>? ",
+            "delay": 0
+        },
+        {
+            "id": 2,
+            "addition": null,
+            "text": "✨ Amazing! Now Let's Prepare!\n\nTo achieve unbelievable results over the next 30 days, preparation is key. 🔑",
+            "delay": 5
+        },
+        {
+            "id": 3,
+            "addition": null,
+            "text": "3. Preparation (Day 0): https://youtu.be/Nywt_DE0kRc",
+            "delay": 5
+        },
+        {
+            "id": 4,
+            "addition": "media",
+            "path": [
+                {
+                    "format": "image",
+                    "path": "day_0/photo_1.jpg"
+                }
+            ],
+            "text": "Before You Start, Here’s What To Do:\n\n1️⃣ Take photos of your current shape 📸\nThese will be your “before” photos to compare with your results after 30 days. You can also measure your weight, inches, strength, or whatever metrics you want to track.\n\n2️⃣ Write down 5–10 goals 📝\nFor example: “Read 3 books, lose 10lbs, increase income by 50%.”\n\n3️⃣ List 2–3 skills you’d like to learn 🤘\nCould be a handstand, playing guitar, doing magic tricks — whatever excites you!\n\n4️⃣ Invite someone to join the challenge with you 🤜🤛\n\n5️⃣ Pick the practices you’ll stick to for the next 30 days:\n\nWake up at 5am\nJournaling\nCold showers\nMeditation\nQuit caffeine\nQuit social media\nQuit sugar\n\nYou can choose one, a few, or even all of them (I’m doing all! 😅). Don’t worry, I’ll show you how to make it work with your job, studies, or relationships.",
+            "delay": 5
+        },
+        {
+            "id": 5,
+            "addition": "button",
+            "buttons": [
+                {
+                    "text": "yes",
+                    "answer": "Great! Trust me, you'll be amazed by the final result when you compare \"before\" and \"after\" photos!"
+                },
+                {
+                    "text": "no",
+                    "answer": "Don't neglect this, then when you get the results, you will regret that you were too lazy to measure these parameters. Plus, if you write down these numbers in a visible place, they will motivate you to work harder."
+                }
+            ],
+            "text": "Did you take photos and measurements and write down your goals for the next 30 days?\n",
+            "delay": 1
+        },
+        {
+            "id": 6,
+            "addition": "button",
+            "buttons": [
+                {
+                    "text": "Next Lesson"
+                }
+            ],
+            "text": "Important Reminder:\n⚠️ Please perform all exercises and tasks based on your abilities and how you feel. If something doesn’t feel right or causes pain, stop immediately. Your safety comes first!\n🚨 Disclaimer: I am not responsible for any injuries, health problems, or complications during this challenge. Always listen to your body and consult a doctor if you have any pre-existing health concerns. You take full responsibility for your participation.",
+            "delay": 1
+        },
+        {
+            "id": 7,
+            "addition": null,
+            "text": "4. Body: Exercise & Nutrition: https://youtu.be/yV8bZtNJDuw",
+            "delay": 5
+        },
+        {
+            "id": 8,
+            "addition": "media",
+            "path": [
+                {
+                    "format": "image",
+                    "path": "day_0/photo_2.jpg"
+                }
+            ],
+            "text": "Over the Next 30 Days: \n30 Unique Workouts, 3 Levels, and Unbelievable Results! 🎉💪\n\nGet ready for 30 absolutely unique workouts and 3 progressive levels of diet and workout intensity to challenge you and transform your body! 🚀\n\nHere’s the Plan:\n1️⃣ Beginner (Balanced Nutrition): Days 1–10 🥗\n\n2️⃣ Medium (Carb-Cycling): Days 11–20 🍚⬆️⬇️\n\n3️⃣ Advanced (Ketogenic Diet): Days 21–30 🥓🥑\n\nWorkout Schedule by Classes 🏋️‍♂️🔥\n📆 Day 1: Strength Training #1 💪\n📆 Day 2: Recovery Workout (Stato-Dynamic)\n📆 Day 3: HIIT/Functional Training 🥵\n📆 Day 4: Yoga 🧘‍♂️\n📆 Day 5: Strength Training #2 💪\n📆 Day 6: Fab Abs 💥\n📆 Day 7: Stretching 🧘",
+            "delay": 5
+        },
+        {
+            "id": 9,
+            "addition": "button",
+            "buttons": [
+                {
+                    "text": "Next Lesson"
+                }
+            ],
+            "text": "Flexibility for Your Progress 🕒➡️🏆\nIf you struggling with the program or finding it moves too fast? Don’t stress! You can repeat Week 1 as many times as you need until you’re ready to increase the level.\n\n💡 Here’s a real example:\nOne of my friends found the first week super challenging, so he repeated it for two months! Over time, he gradually increased weights and reps. The result? Massive improvements in strength, appearance, and health! 🙌\n\nThat’s the beauty of this program — you can move at your own pace while still making incredible progress. Whether it takes 30 days or longer, the key is staying consistent. Let’s crush this together! 💪✨",
+            "delay": 5
+        },
+        {
+            "id": 10,
+            "addition": null,
+            "text": "5. Mindset: Skills, Habits & Routine 🧠🌟\nWatch the video here: https://youtu.be/HyOp_K_kQLo🎥\n\nTo truly transform, you need to build a strong foundation of habits and routines. Over the next 30 days, I’ll guide you through 6 powerful practices to elevate your mindset, boost your productivity, and supercharge your results.",
+            "delay": 5
+        },
+        {
+            "id": 11,
+            "addition": "button",
+            "buttons": [
+                {
+                    "text": "Next Lesson"
+                }
+            ],
+            "text": "The 6 Practices for Success:\n1️⃣ Wake Up 1 Hour Earlier ⏰\nStart your day with intention and set yourself up for success.\n\n2️⃣ Meditation 🧘‍♂️\nCalm your mind, increase focus, and reduce stress with daily meditation.\n\n3️⃣ Cold Showers ❄️🚿\nBoost your energy, improve circulation, and develop mental resilience.\n\n4️⃣ Reading 📚\nFuel your mind with knowledge and inspiration every day.\n\n5️⃣ Journaling 📝\nReflect on your progress, set goals, and stay accountable.\n\n6️⃣ Morning Activity 💪\nStart your day with movement to wake up your body and mind.\n\nHow to Build These Habits\nStart small! You don’t need to master everything at once. Focus on one or two practices at a time, and as they become part of your routine, add more.\n\n💡 Pro tip: Consistency is key! Even if you only spend a few minutes on each habit, doing it every day will create long-term results.\n\nLet’s get started and make these 6 practices part of your daily routine for the next 30 days. Ready to level up? 🚀",
+            "delay": 1
+        },
+        {
+            "id": 12,
+            "addition": null,
+            "text": "6. Dopamine Detox 🧘‍♀️📵\nWatch the video here: https://youtu.be/zOJij9HF-xk  🎥\n\nWe live in a world full of constant stimulation — notifications, endless scrolling, and quick dopamine hits from social media, junk food, or binge-watching. Over the next 30 days, we’ll include Dopamine Detox practices to help reset your brain and refocus your energy on what truly matters.\n\nWhat is Dopamine Detox?\nIt’s a process of reducing overstimulation by cutting back on instant-gratification activities. This helps you:\n✔️ Regain focus and mental clarity 🧠\n✔️ Boost your motivation and self-control 💪\n✔️ Appreciate small, meaningful moments in life ✨",
+            "delay": 5
+        },
+        {
+            "id": 13,
+            "addition": null,
+            "text": "Congratulations! 🎓\n🎉 You're all set!\n\nEvery morning, you'll get your daily plan for the Samurai challenge. I’ll be doing this challenge with you, guiding you step by step. Feel free to share your journey on social media and inspire others!",
+            "delay": 5
+        },
+        {
+            "id": 14,
+            "addition": null,
+            "text": "If you have any questions, just tap the \"Support\" button, and I'll be there to help you out!",
+            "delay": 5
+        },
+        {
+            "id": 15,
+            "addition": "media",
+            "path": [
+                {
+                    "format": "image",
+                    "path": "day_0/photo_3.jpg"
+                }
+            ],
+            "text": "🥷 Welcome to 30-Day Samurai Challenge!",
+            "delay": 5
+        }
+    ],
+    "day_1": [
+        {
+            "id": 0,
+            "addition": "media",
+            "path": [
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p1.mp4"
+                }
+            ],
+            "text": "🌅 Day 1 - Good morning, Samurai!\n\nToday marks the beginning of your journey. Get ready to conquer your first challenge!\n\nRemember, I’m here to guide you every step of the way. Keep pushing forward, and don’t forget to share your progress with others to inspire them too!\n\nReady to kick off? Let’s do this! 💥",
+            "delay": 5
+        },
+        {
+            "id": 1,
+            "addition": "media",
+            "path": [
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p2.mp4"
+                }
+            ],
+            "text": "💪 Morning Check-In & Plan for the day.",
+            "delay": 5
+        },
+        {
+            "id": 2,
+            "addition": "media",
+            "path": [
+                {
+                    "format": "video",
+                    "path": "day_1\\d1_p3_1_compr.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1\\d1_p3_2_compr.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p3_3_compr.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p3_4_compr.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p3_5_compr.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p3_6_compr.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p3_7_compr.mp4"
+                }
+            ],
+            "text": "🌄 Morning Routine\nStart your day strong with these key steps:\n\nWake up at 5 AM ✅\nStart your day early to set the tone for productivity and focus.\n\nCold Shower ❄️ (10 minutes)\nBoost your circulation and mental clarity with a refreshing cold shower.\n\nExercise 💪 (10 minutes)\n30 Squats\n30 Push-ups\n10 Pull-ups\nA great way to wake up your body and build strength.\n\nMeditation 🧘‍♂️ (10 minutes)\nTake a few minutes to clear your mind, focus on your breath, and set positive intentions for the day ahead.\n\nAffirmation 💬 (10 minutes)\nRepeat powerful affirmations to reinforce your mindset and belief in yourself. Set the tone for a successful day!\n\nJournal 📓 (10 minutes)\nWrite down your thoughts, reflect on your goals, and track your progress.\n\nReading 📖 (10 minutes)\nSpend 10 minutes reading something that motivates or educates you, helping to fuel your mind for the day.\n\nTotal Time: 1 Hour! 💥\n\nStart your day with intention, and get ready to crush it! You’ve got this!",
+            "delay": 5
+        },
+        {
+            "id": 3,
+            "addition": "button",
+            "buttons": [
+                {
+                    "text": "yes",
+                    "answer": "Amazing! 🎉\n\nYou’re all set for the day and ready to smash it! 💪 It’s just the beginning of the day and you’ve already accomplished so much!!!\n\nNow, let’s see how you’ll feel after doing this for the next 7 days. Remember—even just 10 minutes makes a difference. Every practice is a small adjustment that strengthens your mind and sets you up for success.\n\nKeep going, Samurai! 🔥🥷"
+                },
+                {
+                    "text": "no",
+                    "answer": "✨ Optional Practices ✨\n\nThese practices are here to help you feel better—try at least one and see how it works for you! You don’t have to do everything at once; just start small and gradually add them to your routine.\n\nEach practice has a different impact on your body and mind. I know waking up early or taking cold showers isn’t for everyone, but I challenge you to try at least one of them for the next 7 days and see how you feel! 😉"
+                }
+            ],
+            "text": "Did you do all practives? \n",
+            "delay": 1
+        },
+        {
+            "id": 4,
+            "addition": null,
+            "text": "🍽 Let’s Set Up Your Nutrition!\n\nBefore your workout, it's important to fuel your body properly! 💪\n\n🔹 Watch this first! → https://youtu.be/H5QrUUYSQoI \nNutrition at 6:53 (if you haven’t seen it yet!)\n\nStep 1: Balanced Nutrition\nStart with Level 1 – a simple, balanced approach:\n✅ Calculate your BMR:\n🔹 Your weight (lbs) × 12 = daily calorie intake\n🔹 Macronutrient split:\n\n40% Carbs 🍞\n30% Protein 🍗\n30% Fats 🥑\nStep 2: Analyze Your Current Diet\nLook at what you eat daily and check:\n\nHow many calories are you consuming?\nAre your macros aligned with the formula? 😅\nIf not, no stress! Just enter your calories + macros into ChatGPT, and it can help create a meal plan using your favorite foods!\n\nStep 3: The Secret to Transformation\nAs you can see, this isn’t a diet – no calorie deficit needed! Simply adjusting the right proportion of protein, carbs, and fats will naturally reshape your body. 💥\nWith the workouts, you’ll automatically create a small caloric deficit, which your body will cover by burning fat. That’s how you’ll get stronger, leaner, and more defined! 🔥\n\nStep 4: Make It Sustainable\nI won’t give you a strict meal plan because we all have different habits and preferences. Instead, I’ll show you what I eat, and you’ll create your own plan with foods you actually enjoy—because if you don’t like it, you won’t stick to it!",
+            "delay": 5
+        },
+        {
+            "id": 5,
+            "addition": "button",
+            "buttons": [
+                {
+                    "text": "yes",
+                    "answer": "Awesome! 🙌 \nNow just keep following your plan and adjust it according to your macros.\n\n🚫 No cheating! Even small snacks can ruin your progress—yes, even that cappuccino with syrup! It’s packed with unnecessary carbs. 😅\n\nThe key is to keep it clean, and over time, you’ll start \"feeling the food\"—you’ll instinctively know how many calories are in different foods without even checking nutrition labels.\n\nStay consistent, and results will follow! 🔥💪"
+                },
+                {
+                    "text": "no",
+                    "answer": "Remember, nutrition is 80% of your success! 🥗🏆\n\n👉 Don’t be lazy—take a few minutes to create your 7-14 day meal plan. Once you do this, it will start to become a habit, and you’ll see real changes in your shape and energy levels!\n\nStart now—your future self will thank you! 🚀"
+                }
+            ],
+            "text": "Have you created your own eating plan?",
+            "delay": 1
+        },
+        {
+            "id": 6,
+            "addition": "button",
+            "buttons": [
+                {
+                    "text": "Start Workout"
+                }
+            ],
+            "text": "🔥 You're Doing Great! 🔥\n\nNow, it’s time for the fun part—your first WWWORKOUT!! 😈💪\n\nI’ve prepared a strength training session for you, so make sure you have some weights nearby. It’s going to be brutal, but that’s the challenge! 😏 I warned you!\n\n🥞 Make sure you’ve had your breakfast!\n⏰ Best time to train: 10-11 AM or 5-6 PM\n\n👉 Hit the button and start whenever you're ready!",
+            "delay": 1
+        },
+        {
+            "id": 7,
+            "addition": "media",
+            "path": [
+                {
+                    "format": "image",
+                    "path": "day_1\\d1_p7_1.JPEG"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1\\d1_p7_2.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p7_3.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p7_4.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p7_5.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p7_6.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p7_7.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p7_8.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p7_9.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_1/d1_p7_10.mp4"
+                }
+            ],
+            "text": "🔥 Workout Time! 🏋️‍♂️\n\n#1.Full-Body Resistance Training session! 💪🔥\nPerform 2-3 circuits with 10-15 reps per exercise.\n\n📊 Exercises: Focus on Major Muscle Groups\n🔻 Legs:\n✅ Squats: Plie, front, sumo, jumping, one-leg\n✅ Deadlifts: Classic, Romanian, one-leg, good morning\n✅ Lunges: Forward, back, side, static, dynamic\n\n🔻 Back:\n✅ Pull-ups\n✅ Bent-over row\n✅ Band row\n✅ Superman\n\n🔻 Chest:\n✅ Push-ups (wide, narrow)\n✅ Dips\n✅ Flyes\n\n🔻 Shoulders:\n✅ Side raises\n✅ Front row\n✅ Back flyes\n✅ Overhead press\n\n🔻 Arms:\n✅ Bicep curls\n✅ Tricep extensions\n-----------------------------------------------\n💪 My Workout Plan:\n🚶‍♂️ Warm-Up First! Then complete 3 circuits of:\n\n1️⃣ Plie-Front Squats – 15 reps\n2️⃣ Romanian Deadlift – 15 reps\n3️⃣ Pull-Ups – 10 reps\n4️⃣ Push-Ups – 20 reps\n5️⃣ Band Side Raises – 12 reps\n6️⃣ Overhead Press – 12 reps\n7️⃣ Bicep Curls – 12 reps\n8️⃣ Reverse Crunches – 12 reps\n\n💥 Push through! Keep your form tight and challenge yourself!",
+            "delay": 5
+        },
+        {
+            "id": 8,
+            "addition": "question",
+            "text": "How was your workout?\nAnswer down below 👇👇👇",
+            "delay": 0
+        },
+        {
+            "id": 9,
+            "addition": "button",
+            "buttons": [
+                {
+                    "text": "yes",
+                    "answer": "Great work! 🎉\n🔥 The momentum is building, and you’re one step closer to your goal!\n\nThe timer is set for the next day—keep it up! 💪🚀"
+                },
+                {
+                    "text": "no",
+                    "answer": "No worries, but you have to complete the first workout before moving to the next day! 💪🔥\n\n👉"
+                }
+            ],
+            "text": "Hey, Champ! 🏆\n\nHow was your day? ☀️\n\nDid you complete all of today’s tasks? 💪\n",
+            "delay": 1
+        }
+    ],
+    "day_2": [
+        {
+            "id": 0,
+            "addition": "media",
+            "path": [
+                {
+                    "format": "video",
+                    "path": "day_2\\d2_p1_1_compr.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_2\\d2_p1_2_compr.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_2/d2_p1_3_compr.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_2/d2_p1_4.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_2/d2_p1_5.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_2/d2_p1_6.mp4"
+                }
+            ],
+            "text": "🌄 Day 2 – Let’s Go!\n\nMorning Routine 👌\n\n✅ Wake up – 5 AM 🌅\n✅ Cold shower ❄️\n✅ Yoga & Stretching 🤸\n✅ Meditation 🧘‍♂️\n✅ Journaling 📓\n✅ Breakfast 🍳\n\nStart your day strong! 💪🔥 Let’s keep the momentum going! 🚀",
+            "delay": 5
+        },
+        {
+            "id": 1,
+            "addition": "button",
+            "buttons": [
+                {
+                    "text": "Start Workout"
+                }
+            ],
+            "text": "💪 Your Workout is Ready!\n\n🔥 Time to put in the work! Stay focused, control every movement, and feel the burn! 🔥\n\n👉 Press \"Start Workout\" whenever you're ready! 🚀🏋️‍♂️",
+            "delay": 1
+        },
+        {
+            "id": 2,
+            "addition": "media",
+            "path": [
+                {
+                    "format": "video",
+                    "path": "day_2\\d2_p2_1.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_2\\d2_p2_2.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_2/d2_p2_3.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_2/d2_p2_4.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_2/d2_p2_5.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_2/d2_p2_6.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_2/d2_p2_7.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_2/d2_p2_8.mp4"
+                },
+                {
+                    "format": "video",
+                    "path": "day_2/d2_p2_9.mp4"
+                }
+            ],
+            "text": "🏆 Resistance Band Workout #2\n\"Light\" Statodynamic Training 👌\n\n🔄 2 Circuits x 20-30 Reps 🏋️‍♂️\n\n📊 Goal of This Workout:\n✅ Improve brain-muscle connection 🧠💪\n✅ Activate protein synthesis & enhance recovery 🔄\n✅ Boost circulation 🩸 to deliver nutrients to muscles\n\n💡 Since resistance is light, there’s no muscle damage, but you’ll improve blood flow and speed up recovery!\n\n🧐 Focus on:\n🔥 Controlled, slow movements inside the range of motion\n🔥 Achieving the burning sensation in your muscles\n🔥 Keeping every rep under full control",
+            "delay": 5
+        },
+        {
+            "id": 3,
+            "addition": "button",
+            "buttons": [
+                {
+                    "text": "Yes",
+                    "answer": "Perfect! 🔥👏 Keep up the great work, and I’ll see you tomorrow! 🚀💪"
+                },
+                {
+                    "text": "No",
+                    "answer": "Sorry, you can't move forward yet! 😬💪\n\nYou must complete today’s workout first before progressing.\n\n👉 Get it done and press the button! You got this! 🔥🚀\n",
+                    "answer_button": {
+                        "text": "Done!"
+                    }
+                }
+            ],
+            "text": "🔥 How’s the progress going?\n\nDid you complete all tasks and your workout today? 💪✅\n",
+            "delay": 1
+        },
+        {
+            "id": 4,
+            "addition": null,
+            "text": "🔥👏 Well done!\nNow you can relax and wait for Day 3!",
+            "delay": 1
+        }
+    ],
+    "day_3": [
+        {
+            "id": 0,
+            "addition": "button",
+            "buttons": [
+                {
+                    "text": "Yes",
+                    "answer": "Perfect! 🔥👏 \nKeep up the great work, and I’ll see you tomorrow! 🚀💪"
+                },
+                {
+                    "text": "No",
+                    "answer": "Sorry, you can't move forward yet! 😬💪\n\nYou must complete today’s workout first before progressing.\n\n👉 Press \"Start Workout\" and get it done! You got this! 🔥🚀",
+                    "answer_button": {
+                        "text": "Start Workout"
+                    }
+                }
+            ],
+            "text": "🔥 How’s the progress going?\n\nDid you complete all tasks and your workout today? 💪✅",
+            "delay": 2.0
+        },
+        {
+            "id": 1,
+            "addition": "button",
+            "buttons": [
+                {
+                    "text": "кнопка1|кнопка2",
+                    "answer": "ответ_на_кнопку_1",
+                    "answer_button": {
+                        "text": "кнопка_на ответе_на_кнопку_1"
+                    }
+                }
+            ],
+            "text": "Текст сообщения…",
+            "delay": 2.0
+        },
+        {
+            "id": 2,
+            "addition": "button",
+            "buttons": [
+                {
+                    "text": "кнопка1",
+                    "answer": "ответ_на_кнопку_1",
+                    "answer_button": {
+                        "text": "кнопка_на ответе_на_кнопку_1"
+                    }
+                },
+                {
+                    "text": "кнопка2"
+                }
+            ],
+            "text": "Текст сообщения…",
+            "delay": 2.0
+        }
+    ]
+}
